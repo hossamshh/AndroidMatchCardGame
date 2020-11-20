@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Match Cards</string>
+    <string name="time">Time:</string>
+    <string name="congrats">Congratulations</string>
+    <string name="madeit">You made it!</string>
+    <string name="yourtime">Your Time:</string>
+    <string name="bestTime">Best Time:</string>
+    <string name="playagain">Play Again</string>
+    <string name="exit">Exit</string>
+    <string name="start">Start Game</string>
+    <string name="timezero">0:00</string>
+</resources>
